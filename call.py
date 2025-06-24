@@ -1,6 +1,6 @@
 import requests
 
-infer_url = "https://tinkerhub--qwen2-5-vl-inference-infer.modal.run"
+infer_url = "https://aloshdenny--qwen2-5-vl-inference-infer.modal.run"
 
 img_path = "/Users/aloshdenny/vscode/sandeep/uniform.jpg"
 prompt = "Is there a person in the image, and are they wearing a uniform? Respond with YES or NO"  # <-- Change as needed
